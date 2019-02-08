@@ -1,0 +1,14 @@
+textarea { 
+    margin: 50px;
+    width: 700px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.previewer { 
+    border: 2px solid black;
+    margin: 0px auto;
+    width: 900px;
+    height: auto;
+    scroll-behavior: auto;
+}
